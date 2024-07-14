@@ -265,5 +265,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "",
+  sourceCode: "https://github.com/IhorAnDev/who_am_i_portfolio",
 };
