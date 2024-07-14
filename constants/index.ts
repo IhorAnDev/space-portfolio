@@ -177,7 +177,7 @@ export const PROJECTS = [
     link: "https://platform.metaminder.com/",
   },
   {
-    title: "Space Themed Website",
+    title: "EduMentor",
     description:
       "With this next project, I'm going to open up a whole new approach to online education for you. This product is designed to educate people online, with artificial intelligence acting as a mentor. Students can hand in their homework and the teacher can check it and give advice on how to correct or improve it." +
       "This project is under development with Java, Spring Boot as the backend and TypeScript, Next JS - 14 as the frontend. ",
