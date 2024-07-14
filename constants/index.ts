@@ -233,17 +233,17 @@ export const FOOTER_DATA = [
       {
         name: "Become Sponsor",
         icon: null,
-        link: "https://youtu.be/qTL0OMefKiE",
+        link: "#",
       },
       {
         name: "Learning about me",
         icon: null,
-        link: "https://example.com",
+        link: "https://youtu.be/qTL0OMefKiE",
       },
       {
         name: "Contact Me",
         icon: null,
-        link: "mailto:ihorandevde@gmail.com",
+        link: "https://github.com/IhorAnDev",
       },
     ],
   },
